@@ -1,0 +1,32 @@
+form{
+    margin-top: 25px;
+}
+
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width:300px;
+    background-color: rgb(85, 157, 196);
+    color: black;
+    border: none;
+    
+    border-radius: 5px;
+  }
+   ::placeholder{
+    color: black;
+   }
+  
+  .submit {
+    padding: 10px;
+    margin-left: 15px;
+    background-color: rgb(244, 88, 31);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit:hover {
+    background-color: rgb(156, 43, 2);
+  }
